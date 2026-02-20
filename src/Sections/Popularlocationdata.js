@@ -1,0 +1,54 @@
+export const items=[{
+    id:1,
+    title:"Chrompet",
+    image:"src/assets/Chrompet.png",
+},
+{
+    id:2,
+    title:"Guindy",
+    image:"src/assets/Guindy.png",
+},
+{
+    id:3,
+    title:"Nemilichery",
+    image:"src/assets/Nemilichery.png",
+},
+{
+    id:4,
+    title:"Pallavaram",
+    image:"src/assets/Pallavaram.png",
+},
+{
+    id:5,
+    title:"OMR",
+    image:"src/assets/OMR.png",
+},
+{
+    id:6,
+    title:"Porur",
+    image:"src/assets/Porur.png",
+},
+{
+    id:7,
+    title:"Velachery",
+    image:"src/assets/Velachery.png",
+},
+{
+    id:8,
+    title:"Adyar",
+    image:"src/assets/Adyar.png",
+},
+{
+    id:9,
+    title:"Central",
+    image:"src/assets/Central.png",
+},
+{
+    id:10,
+    title:"Meenambakkam",
+    image:"src/assets/Meenambakkam.png",
+},
+
+
+
+]
